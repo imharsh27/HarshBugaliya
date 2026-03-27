@@ -44,6 +44,8 @@
 * 📈 Used **DAX** for KPIs and advanced analysis
 * 🌍 Analyzed sales trends, revenue & regional performance
 
+👉 [Sales Performance Dashboard Project](https://github.com/imharsh27/Sales-Performance-Dashboard)
+
 ---
 
 ## 📜 Certifications
