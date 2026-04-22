@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Harsh Bugaliya
 
-🎓 BCA Student | 📊 Data Analytics Enthusiast 
+🎓 BCA Student | 📊 ML Engineer | Analyst 
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 Pursuing **Bachelor of Computer Applications** from University of Rajasthan
-* 📊 Passionate about **Data Analytics & Visualization**
+* 📊 Passionate about **Machine Learning | Data analytics**
 * 🧠 Learning **Python, Power BI & Problem Solving**
 * 📍 Based in Jaipur, Rajasthan, India
 
@@ -18,6 +18,7 @@
 ### 💻 Programming & Tools
 
 * 🐍 Python
+* 🤖 Machine learning
 * 📊 Power BI
 * 🔄 Power Query
 
